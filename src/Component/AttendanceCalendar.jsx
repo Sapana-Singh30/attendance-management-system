@@ -61,7 +61,7 @@ const AttendanceCalendar  = () => {
 
 
   return (
-    <div>   <h2>Attendance Calendar</h2>
+    <div className='attendance_container'>   <h2>Attendance Calendar</h2>
     <Calendar
       onClickDay={handleDateClick}
       value={date}

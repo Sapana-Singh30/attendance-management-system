@@ -1,5 +1,5 @@
 import React from 'react';
-import AttendanceCalendar from './AttendanceCalendar ';
+import AttendanceCalendar from "./Component/AttendanceCalendar"
 
 
 
